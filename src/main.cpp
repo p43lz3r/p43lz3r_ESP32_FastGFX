@@ -1,8 +1,8 @@
 /**
  * @file main.cpp
- * @brief ESP32-S3 FastGraphics Demo Application
- * @author Your Name
- * @date 2024
+ * @brief ESP32-S3 FastGFX Demo Application
+ * @author p43lz3r
+ * @date 2025
  */
 
  #include <Arduino.h>
