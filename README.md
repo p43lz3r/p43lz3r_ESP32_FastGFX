@@ -304,12 +304,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **LVGL project** for embedded graphics best practices
 - **Contributors** who help improve this library
 
-## 📞 Support
-
-- **Issues**: Report bugs and request features on GitHub Issues
-- **Discussions**: Join our GitHub Discussions for questions and ideas
-- **Documentation**: Check the `docs/` folder for detailed guides
-- **Examples**: See the `examples/` folder for usage patterns
 
 ---
 
