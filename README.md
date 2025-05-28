@@ -31,6 +31,9 @@ A **fast and lightweight graphics library** for ESP32-S3 microcontrollers with R
 
 - **Microcontroller**: ESP32-S3 (with PSRAM)
 - **Display**: RGB parallel interface (tested with 800x480)
+  - tested with:
+    - [WAVESHARE ESP32-S3-Touch-LCD-7](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-7)
+    - [WAVESHARE ESP32-S3-Touch-LCD-4.3B](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3B)
 - **Touch**: GT911 capacitive touch controller
 - **Memory**: Minimum 768KB PSRAM for framebuffer
 
